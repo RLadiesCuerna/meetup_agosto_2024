@@ -8,12 +8,12 @@
 En esta sesión hablaremos sobre las bases teóricas y prácticas del algoritmo K-means, una herramienta esencial para la agrupación de datos masivos. Los participantes aprenderán a implementar este algoritmo en R, interpretar los resultados y aplicar técnicas para optimizar el proceso de clustering.
 
 - Introducción
--Algoritmo K-Means
--K-Means
--Variantes de K-Means
--K-Means dinámico
--Ejercicios con benchmark
--Comentarios finales
+- Algoritmo K-Means
+- K-Means
+- Variantes de K-Means
+- K-Means dinámico
+- Ejercicios con benchmark
+- Comentarios finales
 
 ## Fecha 
 
