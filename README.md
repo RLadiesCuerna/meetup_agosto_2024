@@ -9,7 +9,7 @@ En esta sesión hablaremos sobre las bases teóricas y prácticas del algoritmo 
 
 - Introducción
 - Algoritmo K-Means
-- K-Means
+- K-Means en R
 - Variantes de K-Means
 - K-Means dinámico
 - Ejercicios con benchmark
@@ -26,7 +26,7 @@ Jueves 8 de agosto de 2024
 
 ## Instructora
 
-- Dra. Nelva Nely Almaza Ortega
+- Dra. Nelva Nely Almanza Ortega
 
 Investigadora Catedrática del Conahcyt. Ingeniera en Sistemas Computacionales por el Tecnológico Nacional de México, Campus Celaya (ITC), estudió la Maestría y el Doctorado en Ciencias de la Computación en el Tecnológico Nacional de México, Campus Centro Nacional de Investigación y Desarrollo Tecnológico (CENIDET), es miembro del Sistema Nacional de Investigadoras e Investigadores (SNII) Nivel I.
 
